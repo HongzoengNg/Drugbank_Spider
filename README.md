@@ -1,12 +1,22 @@
 # Drugbank_Spider
-To crawl some data from drugbank\n
-Option=Approval&amp;America\n
-Attribution=Name,AccessNumber,CASnumber,Uniprot\n
-It will generate a file with all data.\n
-File structure:\n
-Spider_drugbank.py\n
-The main file to download all original data\n
-ProcessFile.py\n
-Format the data\n
-Spider_drugbank.txt\n
-The results of crawling and data.\n
+To crawl some data from drugbank  
+
+Option=Approval&amp;America  
+
+Attribution=Name,AccessNumber,CASnumber,Uniprot  
+
+It will generate a file with all data.  
+
+File structure:  
+
+Spider_drugbank.py  
+
+The main file to download all original data  
+
+ProcessFile.py  
+
+Format the data  
+
+Spider_drugbank.txt  
+
+The results of crawling and data.
